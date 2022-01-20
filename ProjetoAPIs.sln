@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{8420BAB2-262C-482C-8CCE-DDFA316B3242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{B13F15A2-CDDD-4E66-B3EE-0B45E4BC8F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{B21C28A2-2BCD-406F-BAE5-A00E8C2C9FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8420BAB2-262C-482C-8CCE-DDFA316B3242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8420BAB2-262C-482C-8CCE-DDFA316B3242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8420BAB2-262C-482C-8CCE-DDFA316B3242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8420BAB2-262C-482C-8CCE-DDFA316B3242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13F15A2-CDDD-4E66-B3EE-0B45E4BC8F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13F15A2-CDDD-4E66-B3EE-0B45E4BC8F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13F15A2-CDDD-4E66-B3EE-0B45E4BC8F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13F15A2-CDDD-4E66-B3EE-0B45E4BC8F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21C28A2-2BCD-406F-BAE5-A00E8C2C9FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21C28A2-2BCD-406F-BAE5-A00E8C2C9FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21C28A2-2BCD-406F-BAE5-A00E8C2C9FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21C28A2-2BCD-406F-BAE5-A00E8C2C9FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7535BF-CC95-423E-A994-C82985731C06}
+	EndGlobalSection
+EndGlobal
